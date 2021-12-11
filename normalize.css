@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+    font-family: 'Serif', sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar {
+    background-color: #f9e4e4;
+    text-align: center;
+    padding: 30px 0 20px;
+}
+
+h2 {
+    color: #cf1b1b;
+    font-family: 'Serif', sans-serif;
+    font-size: 2.0rem;
+}
+
+h3 {
+    color: #9e0d0d;
+    font-family: 'Serif', sans-serif;
+    font-size: 1.5rem;
+}
+
+p {
+    line-height: 3;
+}
+
+a {
+    color: #bf6666;
+    font-family: 'Calibri', sans-serif;
+    margin: 20px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.lastsection {
+    background-color: #f9e4e4;
+    padding: 10px 0 10px;
+}
+
+.navbar h2 {
+    color: #da8d8d;
+    font-size: 3.6rem;
+    margin: 0px auto 0 auto;
+    font-family: 'Calibri', cursive;
+    text-align: center;
+    background-color: #f9e4e4;
+}
+
+form {
+    position: relative;
+    align-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    width: 400px;
+    max-width: 100%;
+    padding: 30px 40px;
+}
+
+.reflection {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.honesty {
+    margin-left: 20%;
+    margin-right: 20%;
+}
